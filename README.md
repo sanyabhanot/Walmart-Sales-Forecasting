@@ -1,6 +1,6 @@
 # Walmart Time-Series Forecasting using ARIMA and Exponential Smoothing
 *This project was made under **AICTE-IBM Cloud (Edunet Foundation)** internship*
-
+---
 ## Problem Statement
 
 Walmart is a renowned retail corporation that operates a chain of hypermarkets. Here, Walmart
